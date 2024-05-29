@@ -40,3 +40,14 @@ Cabeçalho da pagina, onde contem o menu de navegação e o Titulo principal com
 ```
 
 ![Novo mascote](surge_masc)
+
+
+## Video Android
+
+
+![video_and](video_and)
+
+
+## Androids já criados
+
+![androids](androids)
